@@ -1,7 +1,5 @@
 package HW1_7;
 
-import HW1_5.Employee;
-
 public class Main {
     public static void main(String[] args) {
         Cat[] catsArray = new Cat[3];
